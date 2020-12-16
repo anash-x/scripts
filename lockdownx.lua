@@ -2,7 +2,7 @@
 Synapse Invite Script v1.1
 Invite for Lockdown X
 Only works on Synapse X
-xkammy#3798
+anash#6423
 
 Loadstring:  loadstring(game:HttpGet("https://raw.githubusercontent.com/cvvquacc/scripts/main/lockdownx.lua", true))()
 ]]--
